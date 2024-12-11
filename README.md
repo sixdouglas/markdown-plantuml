@@ -1,6 +1,6 @@
 # markdown-plantuml
 
-```
+```plantuml
 @startuml firstDiagram
 
 Alice -> Bob: Hello
